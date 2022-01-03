@@ -1,4 +1,4 @@
-![github-banner.png]("https://github.com/mabendroth/mabendroth/blob/main/github-banner.png")
+![github-banner](https://raw.githubusercontent.com/mabendroth/mabendroth/github-banner.png)
 
 ### Hi there 👋
 
