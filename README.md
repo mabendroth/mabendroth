@@ -1,3 +1,5 @@
+<img source="github-banner.png">
+
 ### Hi there 👋
 
 My name is Mike Abendroth. I'm an SRE for a large company, looking to improve and expand my skillset.
